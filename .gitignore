@@ -1,0 +1,11 @@
+# Compiled executables
+kv_server
+load_generator
+
+# Object files
+*.o
+*.out
+
+# C++ IDE/build files
+.vscode/
+build/
