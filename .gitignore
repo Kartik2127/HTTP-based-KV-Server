@@ -9,3 +9,18 @@ load_generator
 # C++ IDE/build files
 .vscode/
 build/
+
+wal_simulation.log
+wandb
+
+venv/
+wandb/
+__pycache__/
+*.pyc
+load_generator
+server
+*.exe
+*.o
+wal_simulation.txt
+.DS_Store
+Thumbs.db
